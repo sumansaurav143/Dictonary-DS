@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dictonary-DS/static/css/main.1be2d272.css",
+    "main.js": "/Dictonary-DS/static/js/main.32e7c5b7.js",
+    "index.html": "/Dictonary-DS/index.html",
+    "main.1be2d272.css.map": "/Dictonary-DS/static/css/main.1be2d272.css.map",
+    "main.32e7c5b7.js.map": "/Dictonary-DS/static/js/main.32e7c5b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1be2d272.css",
+    "static/js/main.32e7c5b7.js"
+  ]
+}
