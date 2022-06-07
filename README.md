@@ -2,8 +2,8 @@
 
 # Live URL:- https://sumansaurav143.github.io/Dictonary-DS/
 
-Stack used:- ReactJS and Material UI.
-Feature:- Word Searching, language prefrence, Audio mode and Dark mode.
+# Stack used:- ReactJS and Material UI.
 
-Best Response in Mozilla Firefor (Browser).
+# Feature:- Word Searching, language prefrence, Audio mode and Dark mode.
 
+# Best Response in Mozilla Firefox (Browser).
